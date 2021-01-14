@@ -34,6 +34,7 @@ For the moment, the **only** compatible Launchpad is the Novation Launchpad MK2 
 
 - [ ] Add more launchpad in the future as well as an automatic assignment function !
 - [ ] A web page to download SoundPacks
+
 [⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛]10% | Function of modifying a pad with the Shift key (The code is in pad0)
 
 ### Social media account
