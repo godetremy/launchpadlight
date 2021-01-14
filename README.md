@@ -1,6 +1,6 @@
-###LaunchpadLight
+### LaunchpadLight
 Welcome to the launchpadlight project !
-##Table of contents
+## Table of contents
 * What is LaunchpadLight
 * What is the document necessary to run the application
 * Which launchpad is compatible
@@ -9,10 +9,10 @@ Welcome to the launchpadlight project !
 * Things to do
 * Social media account
 
-#What is LaunchpadLights ?
+# What is LaunchpadLights ?
 Launchpadlight is a VisualBasic project which aims to use are launchpad with the goal, the simplicity, the little demand of resource.
 
-#What is the document necessary to run the application
+# What is the document necessary to run the application
 LaunchpadLight needs :
 * GunaUI 2 Framework
 * **Documents of LaunchpadLight** to copy in its "documents" folder
@@ -42,4 +42,4 @@ For the moment, no account of the application has been created but we are consid
 * An Instagram Account
 * A Twitter Account
 
-But you can follow me on my Instagram : @djremixofficiel (French account)
+But you can follow me on my Instagram : @djremixofficiel **(French account)**
