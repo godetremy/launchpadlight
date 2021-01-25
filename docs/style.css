@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(27,27,27); 
+    color: white;
+    font-family: Nirmala UI;
+}
+h1
+{
+		text-align:center;
+}
+button
+{
+		border: none;
+		background-color: white;
+    color: black;
+    border-radius: 10px 10px 10px 10px;
+    text-align: none;
+}
+a
+{
+		color:black;
+    font-style: normal;
+}
